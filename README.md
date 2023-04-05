@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 ## hong-sehyun
 <div>
 <a href="www.naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
-<div>
-<div>
+
 <a href="www.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
-<div>
+</div>
