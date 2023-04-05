@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="tistory.com"><img src="https://img.shields.io/badge/<LABEL>-<Blog>-<COLOR>"/></a>
+<!-- <a href="tistory.com"><img src="https://img.shields.io/badge/<LABEL>-<Blog>-<COLOR>"/></a> -->
+
+##hong-sehyun
+<a href="tistory.com"><img src="https://img.shields.io/badge/<Blog>-<brightgreen>"/></a>
