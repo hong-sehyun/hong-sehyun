@@ -17,5 +17,7 @@ Here are some ideas to get you started:
 
 <!-- <a href="tistory.com"><img src="https://img.shields.io/badge/<LABEL>-<Blog>-<COLOR>"/></a> -->
 
-##hong-sehyun
+## hong-sehyun
+<div>
 <a href="tistory.com"><img src="https://img.shields.io/badge/<Blog>-<brightgreen>"/></a>
+<div>
