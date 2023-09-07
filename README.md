@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <!-- <a href="tistory.com"><img src="https://img.shields.io/badge/<LABEL>-<Blog>-<COLOR>"/></a> -->
 <!-- <img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/> -->
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hong-sehyun&show_icons=true&theme=shadow_blue)
 ### hong-sehyun
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sese0733)](https://solved.ac/seses0733/)
 <div>
