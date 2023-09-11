@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!-- <a href="tistory.com"><img src="https://img.shields.io/badge/<LABEL>-<Blog>-<COLOR>"/></a> -->
 <!-- <img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/> -->
 
-### hong-sehyun
+## hong-sehyun
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sese0733)](https://solved.ac/seses0733/)
 <div>
 <!-- <a href="https://naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
    -->
 </div>
 
-### Stack
+## Stack
 <div>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 </div>
 
-### Project
+## Project
 <ul>
    <li>
       <a href="https://github.com/hong-sehyun/WaterLevel_SOS">AWS 관측자료를 활용한 하천 유량 예측 모델 개발</a> [2023.08.21 ~ 2023.09.22]
