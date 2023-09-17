@@ -25,10 +25,11 @@ Here are some ideas to get you started:
 <!-- <a href="https://naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 <a href="https://tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a> -->
 
-##✏️
-<a href="https://bitter-crane-65f.notion.site/dff09b1aa7cf4dbaa5cdd0811ef71245?v=62142e5ffe8f428fb0018a2a9027c388&pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
   
 </div>
+
+## ✏️
+<a href="https://bitter-crane-65f.notion.site/dff09b1aa7cf4dbaa5cdd0811ef71245?v=62142e5ffe8f428fb0018a2a9027c388&pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 ## Stack
 <div>
