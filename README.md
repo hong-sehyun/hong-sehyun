@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 ## Project
 <ul>
    <li>
-      <a href="https://github.com/hong-sehyun/WaterLevel_SOS">AWS 관측자료를 활용한 하천 유량 예측 모델 개발</a> [2023.08.21 ~ 2023.09.22]
+      <a href="https://github.com/hong-sehyun/WaterLevel_SOS">메인 프로젝트</a> [2023.08.21 ~ 2023.09.22]
    </li>
    <li>
       <a href="https://github.com/hong-sehyun/BeachInfo">해수욕장 개폐장 일정</a> [2023.07.24 ~ 2023.08.11]     
