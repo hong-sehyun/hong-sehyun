@@ -32,31 +32,41 @@ Here are some ideas to get you started:
 <a href="https://bitter-crane-65f.notion.site/dff09b1aa7cf4dbaa5cdd0811ef71245?v=62142e5ffe8f428fb0018a2a9027c388&pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 ## Stack
+
+### frontend
 <div>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
+</div>
 
+### backend
+<div>
+  <!-- <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/> -->
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+</div>
 
+
+### data science
+<div>
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
-
-
 </div>
+
 
 ## Project
 <ul>
+  <li>
+      <a href="https://github.com/hong-sehyun/meme_front_project">meme_project</a> [2023.10.10 ~ 진행중]
+   </li>
    <li>
       <a href="https://github.com/hong-sehyun/WaterLevel_SOS">메인 프로젝트</a> [2023.08.21 ~ 2023.09.22]
    </li>
    <li>
-      <a href="https://github.com/hong-sehyun/BeachInfo">해수욕장 개폐장 일정</a> [2023.07.24 ~ 2023.08.11]     
+      <a href="https://github.com/hong-sehyun/BeachInfo">해수욕장 정보 웹서비스</a> [2023.07.24 ~ 2023.08.11]     
    </li>
 </ul>
-
