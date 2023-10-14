@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </div>
 
 ## ✏️
-<a href="https://bitter-crane-65f.notion.site/dff09b1aa7cf4dbaa5cdd0811ef71245?v=62142e5ffe8f428fb0018a2a9027c388&pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://bitter-crane-65f.notion.site/K-e92b55d2ff8e456aad42df11d3f1b9ea?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 ## Stack
 
