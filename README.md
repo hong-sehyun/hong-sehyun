@@ -69,4 +69,7 @@ Here are some ideas to get you started:
    <li>
       <a href="https://github.com/hong-sehyun/BeachInfo">해수욕장 정보 웹서비스</a> [2023.07.24 ~ 2023.08.11]     
    </li>
+   <li>
+      <a href="https://github.com/hong-sehyun/React">React 토이 프로젝트 모음</a> [2023.04.20 ~ 2023.05.30]     
+   </li>
 </ul>
