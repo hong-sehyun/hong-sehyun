@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 <div>
 <p/>
 <!-- <a href="https://naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
-<a href="https://tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a> -->
+<a href="https://tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a> 
+  https://simpleicons.org/ 에서 아이콘 검색가능
+  -->
 
   
 </div>
