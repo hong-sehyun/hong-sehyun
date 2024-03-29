@@ -64,7 +64,7 @@ Here are some ideas to get you started:
       <a href="https://github.com/hong-sehyun/meme_front_project">meme_project</a> [2023.10.10 ~ 진행중]
    </li>
    <li>
-      <a href="https://github.com/hong-sehyun/WaterLevel_SOS">메인 프로젝트</a> [2023.08.21 ~ 2023.09.22]
+      <a href="https://github.com/hong-sehyun/WaterLevel_SOS">2023 DATA·AI 분석 경진대회</a> [2023.08.21 ~ 2023.09.22]
    </li>
    <li>
       <a href="https://github.com/hong-sehyun/BeachInfo">해수욕장 정보 웹서비스</a> [2023.07.24 ~ 2023.08.11]     
