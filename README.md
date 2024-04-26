@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!-- <img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/> -->
 
 ## hong-sehyun
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sese0733)](https://solved.ac/seses0733/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sese0733)](https://solved.ac/sese0733/)
 <div>
 <p/>
 <!-- <a href="https://naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
